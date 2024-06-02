@@ -1,0 +1,1 @@
+console.log('Lap Trinh Khong Kho!')

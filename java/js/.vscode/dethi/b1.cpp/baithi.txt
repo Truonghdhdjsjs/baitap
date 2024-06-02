@@ -1,0 +1,7 @@
+So khong nguyen to la: 246
+Cac uoc so cua 246 la: 1 2 3 6 41 82 123 246 
+
+ Tong cac uoc so cua 246 la: 258
+so dao nguoc642
+tong so dao nguoc	12
+so luong so3
